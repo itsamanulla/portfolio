@@ -15,7 +15,7 @@ export default function Profile() {
                                 <i className='fa fa-facebook-square' ></i>
                             </a>
 
-                            <a href="https://www.instagram.com/its_amanulla/" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.instagram.com/amanulla.ai/" target="_blank" rel="noopener noreferrer">
                                 <i className='fa fa-instagram'></i>
                             </a>
 
@@ -45,11 +45,11 @@ export default function Profile() {
                                     loop={Infinity}
                                     steps={[
                                         
-                                        "Full Stack Web Developer",
+                                        "Full Stack Developer",
                                         1000,
-                                        "Django Framework",
+                                        "Programmer",
                                         1000,
-                                        "React Js",
+                                        "Software Developer",
                                         1000,
                                     ]}
                                 />
